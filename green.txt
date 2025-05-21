@@ -1,2 +1,2 @@
-this is green color
+this is green color and
 this is new color
