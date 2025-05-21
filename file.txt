@@ -1,2 +1,3 @@
-this is file 1 and what and yes
+this is file 1 and what and yes , check
 this is second line
+this is thired line
